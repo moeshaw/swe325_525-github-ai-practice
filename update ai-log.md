@@ -1,22 +1,48 @@
-## AI interaction 1
-Date: 9/28/2026
-Assistant: ChatGPT
-Purpose: Understand GitHub concepts used in the assignment.
-Prompt or summary:"Explain how to create and write a GitHub issue, including the purpose of acceptance criteria and tasks."
-Useful suggestion:The assistant explained that a GitHub issue should clearly describe the work, expected result, tasks, and acceptance criteria. It also suggested using observable acceptance criteria that can be verified.
-Decision: accepted 
-Reason:The explanation helped me understand how to structure the assignment issue and create criteria that can be verified on GitHub.
-Related GitHub URL: https://github.com/moeshaw/swe325_525-github-ai-practice.git
+# AI Use Log
 
-## AI interaction 2
-Date:09/28/2026
-Assistant:ChatGPT
-Purpose: To simplify my README file, to be more precise and short
-Prompt or summary ":how to simplify my readme in my repo?"
-Useful suggestion:The assistant suggested reducing the README to the essential assignment requirements: repository purpose, student information, a description of the three Markdown files, and a statement explaining that the repository is limited to GitHub workflow and AI-use documentation.
-Decision: Revised & accepted
-Reason: the results were shorten but not shorten enough for my personal likeing.
-Related GitHub URL:https://github.com/moeshaw/swe325_525-github-ai-practice.git
+## AI Interaction 1
+
+**Date:** 9/28/2026  
+**Assistant:** ChatGPT  
+**Purpose:** Understand GitHub concepts used in the assignment.
+
+**Prompt or Summary:**  
+"Explain how to create and write a GitHub issue, including the purpose of acceptance criteria and tasks."
+
+**Useful Suggestion:**  
+The assistant explained that a GitHub issue should clearly describe the work, expected result, tasks, and acceptance criteria. It also suggested using observable acceptance criteria that can be verified.
+
+**Decision:** Accepted
+
+**Reason:**  
+The explanation helped me understand how to structure the assignment issue and create criteria that can be verified on GitHub.
+
+**Related GitHub URL:**  
+https://github.com/moeshaw/swe325_525-github-ai-practice.git
+
+
+---
+
+## AI Interaction 2
+
+**Date:** 09/28/2026  
+**Assistant:** ChatGPT  
+**Purpose:** To simplify my README file, to be more precise and short.
+
+**Prompt or Summary:**  
+"How to simplify my README in my repo?"
+
+**Useful Suggestion:**  
+The assistant suggested reducing the README to the essential assignment requirements: repository purpose, student information, a description of the three Markdown files, and a statement explaining that the repository is limited to GitHub workflow and AI-use documentation.
+
+**Decision:** Revised & Accepted
+
+**Reason:**  
+The results were shortened but not shortened enough for my personal liking.
+
+**Related GitHub URL:**  
+https://github.com/moeshaw/swe325_525-github-ai-practice.git
+
 
 ## AI Interaction 3
 
