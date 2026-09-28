@@ -1,5 +1,5 @@
 # swe325_525-github-ai-practice
-# SWE 325/525 GitHub AI Practice
+# pull request https://github.com/moeshaw/swe325_525-github-ai-practice/pull/2#issue-5620912687
 
 ## Purpose
 
