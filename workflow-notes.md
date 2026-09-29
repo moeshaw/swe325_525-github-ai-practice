@@ -15,7 +15,7 @@ The issue defines the repository goal, acceptance criteria, and tasks required f
 
 I created the following feature branch:
 
-`feature/github-ai-documentation`
+`feature/github-ai-workflow`
 
 The documentation changes were developed on this branch rather than directly on `main`.
 
@@ -57,7 +57,7 @@ Commits url:
 
 ##branches
 Default branch: main
-Feature Branch name: `feature/github-ai-documentation`
+Feature Branch name: `feature/github-ai-workflow`
 
 ## How the GitHub Workflow Connects
 
